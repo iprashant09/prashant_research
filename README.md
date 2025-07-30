@@ -1,4 +1,4 @@
-# Dr. Prashant Kumar
+#  Prashant Kumar, PhD INDIAN INSTITUTE OF TECHNOLOGY (BHU), VARANASI
 
 *Researcher | Micro/Nano-Device Fabrication | Nanophotonics | Semiconductor Device Physics | Material Synthesis & Characterization | Organic Transistors (OFETs) | Sensors for Environment & Health Monitoring*
 
